@@ -1,0 +1,3 @@
+user1 -> a@a.com, b@a.com
+user2 -> a@a.com, c@a.com
+user3 -> d@a.com
